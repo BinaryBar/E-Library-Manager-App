@@ -35,4 +35,9 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
    ```bash
    git clone https://github.com/BinaryBar/E-Library-Manager.git
 
+👨‍💻 Built By
+Sushmoy (BinaryBar) 🚀
+📧 paulsushmoy575@gmail.com
+🔗 GitHub Profile
 
+Made with ❤️ by Sushmoy Pal
