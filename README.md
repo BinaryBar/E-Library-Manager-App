@@ -5,7 +5,7 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
 ---
 
 ## 🚀 Live Demo
-🔗 https://binarybar.github.io/E-Library-Manager/
+🔗https://binarybar.github.io/E-Library-Manager-App/
 
 ---
 
@@ -34,3 +34,4 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
 1. Clone the repo  
    ```bash
    git clone https://github.com/BinaryBar/E-Library-Manager.git
+
