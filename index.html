@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Library Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>📚 E-Library Manager</h1>
+    <p>Built by Sushmoy (BinaryBar)</p>
+  </header>
+
+  <main>
+    <section class="upload">
+      <h2>➕ Upload a Book</h2>
+      <form id="uploadForm">
+        <input type="text" id="title" placeholder="Title" required>
+        <input type="text" id="author" placeholder="Author" required>
+        <input type="text" id="tags" placeholder="Tags (comma separated)">
+        <input type="file" id="file" accept="application/pdf" required>
+        <button type="submit">Upload</button>
+      </form>
+    </section>
+
+    <section class="search">
+      <h2>🔎 Search</h2>
+      <input type="text" id="searchInput" placeholder="Search by title, author, or tag...">
+    </section>
+
+    <section class="library">
+      <h2>📖 My Library</h2>
+      <ul id="bookList"></ul>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

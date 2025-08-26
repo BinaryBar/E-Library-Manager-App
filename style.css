@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f6f9;
+  color: #333;
+}
+
+header {
+  background: #3f51b5;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+form input, form button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+form button {
+  background: #3f51b5;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #303f9f;
+}
+
+#bookList {
+  list-style: none;
+  padding: 0;
+}
+
+.book-item {
+  background: white;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.book-item button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.open-btn {
+  background: #4caf50;
+  color: white;
+}
+
+.delete-btn {
+  background: #f44336;
+  color: white;
+}
