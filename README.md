@@ -19,7 +19,7 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
 ---
 
 ## 🖼️ Screenshot
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](https://github.com/BinaryBar/E-Library-Manager-App/blob/06884859bba67a5102649e53c95f801732e84803/Screenshot.png)
 
 ---
 
@@ -34,4 +34,5 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
 1. Clone the repo  
    ```bash
    git clone https://github.com/BinaryBar/E-Library-Manager.git
+
 
