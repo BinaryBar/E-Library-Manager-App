@@ -42,12 +42,9 @@ A browser-based **E-Library Manager** to upload, store, search, open, and delete
 Sushmoy (BinaryBar) 🚀
 
 📧 [paulsushmoy575@gmail.com](mailto:paulsushmoy575@gmail.com) 
+
 🔗 [GitHub Profile](https://github.com/BinaryBar)
 
 ---
 
 Made with ❤️ by Sushmoy Pal
-
-
-
-
